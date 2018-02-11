@@ -1,0 +1,87 @@
+{
+  "Wed": {
+    "1": [
+      "can-glass-plastic",
+      "boxes"
+    ],
+    "2": [
+      "can-glass-plastic",
+      "magazines"
+    ],
+    "3": [
+      "can-glass-plastic",
+      "boxes"
+    ],
+    "4": [
+      "can-glass-plastic",
+      "magazines"
+    ],
+    "5": [
+      "can-glass-plastic"
+    ]
+  },
+  "Sat": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": []
+  },
+  "Sun": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": []
+  },
+  "Tue": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": []
+  },
+  "Thu": {
+    "1": [
+      "burnable"
+    ],
+    "2": [
+      "burnable"
+    ],
+    "3": [
+      "burnable"
+    ],
+    "4": [
+      "burnable"
+    ],
+    "5": [
+      "burnable"
+    ]
+  },
+  "Fri": {
+    "1": [
+      "unburnable"
+    ],
+    "2": [],
+    "3": [],
+    "4": [],
+    "5": []
+  },
+  "Mon": {
+    "1": [
+      "burnable"
+    ],
+    "2": [
+      "burnable"
+    ],
+    "3": [
+      "burnable"
+    ],
+    "4": [
+      "burnable"
+    ],
+    "5": [
+      "burnable"
+    ]
+  }
+}

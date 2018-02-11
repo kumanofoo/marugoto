@@ -1,0 +1,16 @@
+{
+    "ja": {
+        "can-glass-plastic": "缶・びん・ペットボトル",
+        "boxes":"段ボール・新聞紙",
+        "magazines":"雑誌・チラシ・古布",
+        "burnable":"燃やせるゴミ",
+        "unburnable":"燃やせないゴミ"
+    },
+    "en": {
+        "can-glass-plastic": "cans and bottles",
+        "boxes":"cardboard and newspapers",
+        "magazines":"magazines",
+        "burnable":"burnable",
+        "unburnable":"non burnable"
+    }
+}
