@@ -1,0 +1,13 @@
+[Unit]
+Description=Google Home Notifier Server
+After=syslog.target network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/local/bin/node index.js
+KillMode=process
+WorkingDirectory=/opt/google-home-notifier
+
+[Install]
+WantedBy=multi-user.target
