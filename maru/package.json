@@ -1,0 +1,21 @@
+{
+  "name": "maru",
+  "version": "1.0.0",
+  "description": "Google Home maru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "home",
+    "bus",
+    "rubbish"
+  ],
+  "author": "kumanofoo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "google-home-notifier": "^1.2.0"
+  }
+}
